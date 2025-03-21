@@ -31,10 +31,15 @@ section h2 {
     color: #4CAF50;
 }
 
-section p {
+section h3 {
+    font-size: 24px;
+    color: #333;
+}
+
+ul, ol {
     font-size: 18px;
     line-height: 1.6;
-    color: #555;
+    margin-left: 20px;
 }
 
 footer {
